@@ -9,4 +9,4 @@
 - Critérios e características utilizados para a recomendação
 - Realize a criação de um recomendador de músicas e conexão com a API do Spotify
 - API do Spotify mais a fundo com a biblioteca Spotipy
-####  ✅ <a href="LINK">Certificado</a> - Finalizado em 17 de novembro de 2023
+####  ✅ <a href="https://cursos.alura.com.br/user/diassmatheus/course/clustering-aplicado-recomendando-musicas-k-means/certificate">Certificado</a> - Finalizado em 17 de novembro de 2023
